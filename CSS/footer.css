@@ -1,0 +1,12 @@
+#Felipe{
+    width: 100%;
+}
+#Felipe img{
+    margin: auto;
+    border-radius: 50%;
+    display: flex;
+    padding: 100px;
+    width: 13em;
+    float: left;
+    height: 15em;;
+}

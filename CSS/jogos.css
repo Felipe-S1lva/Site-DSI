@@ -1,0 +1,71 @@
+#sidebar {
+    margin-bottom: 0px;
+    float: left;
+    width: 100%;
+    background: #000000b4;
+    padding: 0;
+    box-shadow: 0 10px 20px -25px rgba(50,50,50,1);
+}
+aside#sidebar h3 {
+    font-size: 16px;
+    color: #363636;
+    float: left;
+    margin: 10px 0;
+    padding: 0 15px;
+    font-weight: 600;
+}
+aside#sidebar .team-btw-match ul li:first-child {
+    float: left;
+}
+aside#sidebar .team-btw-match ul li span {
+    margin: 15px;
+    color: #FDE100;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: block;
+    font-size: 20px;
+}
+aside#sidebar .team-btw-match ul li {
+    width: 41%;
+    text-align: center;
+    float: right;
+}
+aside#sidebar .team-btw-match.style-2 ul li span {
+    color: #FDE100;
+}
+aside#sidebar .macth-fixture ul {
+    padding: 15px 0;
+    overflow: hidden;
+    border-bottom: 1px solid #e1e1e1;
+}
+aside#sidebar .team-btw-match ul {
+    border: solid #FDE100 1px;
+    padding: 40px 0;
+    display: flex;
+}   
+.feature-matchs table {
+    font-size: 13px;
+    margin: 0;
+    color: #333;
+}
+.feature-matchs td img {
+    margin: 0 5px 0 0;
+}
+.matchs-vs li.vs {
+    margin: 50px 0 0;
+}
+.feature-matchs{
+    margin: 5px;
+    height: auto;
+}
+.data{
+    color: #FDE100;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: block;
+    font-size: 16px;
+}
+.tabela{
+    width: auto;
+    height: 45px;
+}
